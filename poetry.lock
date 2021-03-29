@@ -1,0 +1,27 @@
+[[package]]
+category = "main"
+description = "Simple library for color and formatting to terminal"
+name = "colored"
+optional = false
+python-versions = "*"
+version = "1.4.2"
+
+[[package]]
+category = "main"
+description = "A simple function"
+name = "mycode"
+optional = false
+python-versions = "*"
+version = "1.1.0"
+
+[metadata]
+content-hash = "e7464b32c41196259cddcc0b87d0e4f7a792bdae2d0728e9aa76ec72c3b13bb6"
+python-versions = "^3.8"
+
+[metadata.files]
+colored = [
+    {file = "colored-1.4.2.tar.gz", hash = "sha256:056fac09d9e39b34296e7618897ed1b8c274f98423770c2980d829fd670955ed"},
+]
+mycode = [
+    {file = "mycode-1.1.0.zip", hash = "sha256:fd6869b02e60f296531f461303687214a565b84d0a0bdab7ec4a5a5e0f848869"},
+]

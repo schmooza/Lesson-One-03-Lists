@@ -1,0 +1,26 @@
+1) Push Run
+
+2) Where you see debug, this is my way of saying, this code is just here to show what is happening. It can be removed later.
+
+
+
+3) Generate bigger random numbers
+
+randomNum = random.randint(1,2)
+
+
+4) Change the color of the info bars
+
+print (myList, "%s%s The list of random numbers %s" % (fg('green'), bg('purple_3'), attr('reset')))
+
+find the color info in links.txt
+
+5) Do something with the list. Change the text to make it more interesting. 
+
+print(f'There are {lengthIs} hats in the shop.')
+
+6) add descriptions where you see #comment
+
+7) Remove debug
+
+8) submit your work for review.
